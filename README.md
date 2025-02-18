@@ -38,3 +38,6 @@ Finally, create an additional test for this code using python Unit Tests
 # Module 7
 Take two sorting algorithms and prove (with timestamps evidence) which one is better.
 Write your own program to generate a large number of random numbers and sort them using any two algorithms. Add time stamps (you can use the sample program I have provided in the module contents) and prove that one algorithm is more efficient than the other one.
+
+# Module 8 Final Project
+You have been assigned the task of creating a bank account management system. The system should allow users to create bank accounts, deposit funds, withdraw funds, check the account balance, and perform transfers between accounts. Implement the program using object-oriented programming, lists, dictionaries, and recursion.
